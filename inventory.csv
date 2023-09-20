@@ -1,0 +1,12 @@
+SKU,p_name,description,warehouse_num
+'SKU1001','smartphone','latest model with 6.5 inch display',101
+'SKU1002','Laptop','15-inch with i7 processor',123 
+'SKU1003','Smartwatch','water resistant with heart rate monitor',104
+'SKU1004','Tablet','10-inch display',123
+'SKU1005','Wireless Earbuds','Noise cancelling',105
+'SKU1006', 'Gaming console', '4K support', 107 
+'SKU1007', 'Bluetooth headphones', 'Over-ear heaphones with noise cancelling tech',105 
+
+
+
+
